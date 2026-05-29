@@ -1,0 +1,6 @@
+{
+  "name": "AI Dowry Calculator",
+  "description": "A satirical, educational, and thought-provoking AI-powered calculator designed to promote equal marital partnerships and raise awareness against the custom of dowry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
